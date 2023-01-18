@@ -1,7 +1,7 @@
 export const portfolioData = [
   {
     id: 1,
-    name: 'ipsum.com',
+    name: 'hothothotmvc',
     languages: ['javascript','css'],
     languagesIcons: ['fab fa-js','fab fa-css3-alt'],
     source: 'http://www.github.com',
