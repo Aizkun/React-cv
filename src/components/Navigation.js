@@ -45,10 +45,10 @@ const Navigation = () => {
             <div className='socialNetwork'>
                 <ul>
                     <li>
-                        <a href='https://wwww.google.com' target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
+                        <a href='https://www.linkedin.com/in/maxime-tan-02229b209/' target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
                     </li>
                     <li>
-                        <a href='https://wwww.google.com' target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
+                        <a href='https://github.com/Aizkun' target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
                     </li>
                     {/* <li>
                         <a href='https://wwww.google.com' target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
