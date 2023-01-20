@@ -1,35 +1,35 @@
 export const portfolioData = [
   {
     id: 1,
-    name: 'hothothotmvc',
-    languages: ['javascript','css'],
-    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project1.JPG'
+    name: 'HotHotHot',
+    languages: ['javascript','css', 'php', 'all'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt', 'fab fa-php'],
+    source: 'http://jcmfm.alwaysdata.net/Pages/home',
+    info: 'HotHotHot est une application dont le rôle est d’être une interface d’information et de gestion d’un système domotique. Cette application reçoit des données en provenance de différents capteurs (ex, température, humidité, état d’un périphérique etc.) Elle affiche ces données, leur historique si nécessaire et propose des suggestions, émet des alertes à l’attention des utilisateurs.',
+    picture: './media/hothothot.JPG'
   },
   {
     id: 2,
-    name: 'lorem.fr',
-    languages: ['javascript','react'],
-    languagesIcons: ['fab fa-js','fab fa-react'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project2.JPG'
+    name: 'Java zoo',
+    languages: ['java', 'all'],
+    languagesIcons: ['fab fa-java'],
+    source: 'https://github.com/Aizkun/Projet-Zoo',
+    info: 'Projet universtaire visant à simuler la gestion d\'un zoo.',
+    picture: './media/zoo.jpg'
   },
   {
     id: 3,
-    name: 'dolorset.fr',
-    languages: ['javascript','php','css'],
+    name: 'Gestion Sports',
+    languages: ['javascript','php','css', 'all'],
     languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt'],
     source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project3.JPG'
+    info: 'Projet auquel j\'ai pu participer durant mon alternance en tant que développeur web, différentes missions telles que le développement de nouvelles fonctionnalités, la modification et la correction de fonctionnalités présentes au sein de l\'outil Gestion sports m\'ont été confiées',
+    picture: './media/gs.JPG'
   },
   {
     id: 4,
-    name: 'laboriosam.fr',
-    languages: ['javascript','php','react'],
+    name: 'Projet perso',
+    languages: ['javascript','php','react', 'all'],
     languagesIcons: ['fab fa-js','fab fa-php','fab fa-react'],
     source: 'http://www.github.com',
     info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
@@ -37,20 +37,11 @@ export const portfolioData = [
   },
   {
     id: 5,
-    name: 'repudiante.com',
-    languages: ['javascript','css'],
-    languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project5.JPG'
-  },
-  {
-    id: 6,
-    name: 'test.io',
-    languages: ['javascript','react', 'css'],
-    languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project6.JPG'
+    name: 'CV/Portfolio',
+    languages: ['javascript','react', 'css', 'all'],
+    languagesIcons: ['fab fa-js','fab fa-react', 'fab fa-css'],
+    source: 'https://github.com/Aizkun/React-cv.git',
+    info: 'Site web réalisé dans le but d\'apprendre React.',
+    picture: './media/portfolio.JPG'
   },
 ]

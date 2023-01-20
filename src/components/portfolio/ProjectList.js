@@ -9,8 +9,9 @@ class ProjectList extends Component {
             {id: 1, value: "php"},
             {id: 2, value: "react"},
             {id: 3, value: "javascript"},
+            {id: 4, value: "java"},
         ],
-        selectedRadio: 'javascript'
+        selectedRadio: 'all'
     };
 
     handleRadio = (event) => {

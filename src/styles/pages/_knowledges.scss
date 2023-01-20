@@ -24,7 +24,7 @@
             font-size: 1.4rem;
             margin-bottom: 1rem;
             font-family: $font-2;
-            color: $color-5;
+            color: $white;
             text-transform: uppercase;
         }
 
@@ -57,7 +57,7 @@
                 color: $white;
 
                 span {
-                    width: 36%;
+                    width: 36% !important;
 
                     &:nth-child(2) {
                         text-align: center;
@@ -71,7 +71,7 @@
 
                     &:nth-child(2):before,
                     &:nth-child(3):before {
-                        content: '';
+                        content:'';
                         background: rgba(180, 179, 179, 0.5);
                         position: absolute;
                         height: 146px;
@@ -85,7 +85,7 @@
                 padding-top: .5rem;
 
                 li {
-                    color: $color-1;
+                    color: $black;
                 }
 
                 .progressBar {
@@ -131,11 +131,11 @@
 
             h4 {
                 font-size: 1.1rem;
-                color: $color-5;
+                color: $white;
             }
 
             h5 {
-                color: $color-3;
+                color: $color-1;
                 padding: 0.5rem 0 0.5rem 1rem;
             }
 
@@ -169,7 +169,7 @@
                     display: grid;
 
                     i {
-                        color: $color-5;
+                        color: $white;
                     }
                 }
             }
@@ -186,7 +186,7 @@
                 li {
                     i {
                         position: absolute;
-                        color: $color-5;
+                        color: $white;
                     }
 
                     span {
