@@ -54,7 +54,7 @@
       text-align: center;
       margin-top: 0.3rem;
       position: relative;
-      color: $color-2;
+      color: $black;
 
       &:after {
         content: '';
@@ -82,7 +82,7 @@
         font-size: 1.4rem;
         position: absolute;
         transform: translateY(2px);
-        color: $color-2;
+        color: $black;
       }
 
       span {
@@ -94,15 +94,12 @@
         outline: none;
         width: 350px;
         transition: .2s ease;
-
-        &:hover {
-          color: $white;
-        }
       }
 
       .clickInput:hover {
         transform: translateX(56px);
         cursor: pointer;
+        color: $white;
       }
     }
   }
