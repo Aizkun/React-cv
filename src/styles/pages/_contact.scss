@@ -11,32 +11,12 @@
     "2"
     "3";
 
-  // .header {
-  //   grid-area: 1;
-  //   width: 100%;
-  //   position: relative;
-  //   background: $color-1;
-  //   height: 340px;
-
-  //   // &:before {
-  //   //   content: '';
-  //   //   width: 100%;
-  //   //   height: 100%;
-  //   //   position: absolute;
-  //   //   background: url(../../media/map.jpg) no-repeat center top/cover;
-  //   //   filter: grayscale(100%);
-  //   // }
-
-  //   // &:after {
-  //   //   content: '';
-  //   //   width: 100%;
-  //   //   height: 100%;
-  //   //   position: absolute;
-  //   //   top: 30px;
-  //   //   background: url(../../media/shape.svg) no-repeat center /cover;
-
-  //   // }
-  // }
+   .header {
+     grid-area: 1;
+     width: 100%;
+     position: relative;
+     height: 340px;
+   }
 
   .contactBox {
     grid-area: 2;
