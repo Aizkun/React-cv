@@ -9,14 +9,12 @@ const OtherSkills = () => {
                     <li><i className='fas fa-check-square'></i> Anglais courant</li>
                     <li><i className='fas fa-check-square'></i> Github</li>
                     <li><i className='fas fa-check-square'></i> Pack office</li>
-                    {/* <li><i className='fas fa-check-square'></i>Anglais courant</li> */}
                 </ul>
-                {/* <ul>
-                    <li><i className='fas fa-check-square'></i>Anglais courant</li>
-                    <li><i className='fas fa-check-square'></i>Github</li>
-                    <li><i className='fas fa-check-square'></i>Anglais courant</li>
-                    <li><i className='fas fa-check-square'></i>Anglais courant</li>
-                </ul> */}
+                 <ul>
+                    <li><i className='fas fa-check-square'></i> PhpStorm</li>
+                    <li><i className='fas fa-check-square'></i> Visual Studio Code</li>
+                    <li><i className='fas fa-check-square'></i> WampServer</li>
+                </ul>
             </div>
         </div>
     );
