@@ -8,11 +8,8 @@ const Experience = () => {
                 <h4>Apprenti développeur web - Gestion Sports</h4>
                 <h5>2021-2022</h5>
                 <p>
-                    {/* Les missions qui m'ont été confiées sont la modification, la correction des fonctionnalités ainsi que le
-                    développement de nouvelles fonctionnalités pour les sites et
-                    applications clients. */}
                     Une année en alternance qui m'a permit d'acquérir des compétences dans le développement web.
-                    En effet, des missions tels que la modification, la correction ou encore le développement de nouvelles fonctionnalités pour les sites et
+                    En effet, des missions telles que la modification, la correction ou encore le développement de nouvelles fonctionnalités pour les sites et
                     applications clients m'ont été confiées. 
                 </p>
             </div>
@@ -20,8 +17,8 @@ const Experience = () => {
                 <h4>Stage - Compagnie financière de participation</h4>
                 <h5>2020-2020</h5>
                 <p> Stage en entreprise faisant parti du BTS Système numérique, ce
-                    stage m'a fait découvrir un nouveau logiciel tel que "Talend",
-                    et m'a permit de manipuler des bases de données.
+                    stage m'a fait découvrir de nouveaux logiciels tels que "Talend" ou encore "Microsoft SQL Server",
+                    et m'a permis de manipuler des bases de données.
                 </p>
             </div>
         </div>

@@ -11,12 +11,12 @@ const App = () => {
   return (
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<Home/>} />
-          <Route path="/competences" element={<Knowledges/>} />
-          <Route path="/portfolio" element={<Portfolio/>} />
-          <Route path="/contact" element={<Contact/>} />
+          <Route path="/" exact element={<Home />} />
+          <Route path="/competences" exact element={<Knowledges />} />
+          <Route path="/portfolio" exact element={<Portfolio />} />
+          <Route path="/contact" exact element={<Contact />} />
           {/* * = si jamais l'url ne correspond à rien */}
-          <Route path="*" element={<NotFound/>} />
+          <Route path="*" exact element={<NotFound />} />
           {/* <Route element={<NotFound/>} /> */}
         </Routes>
       </BrowserRouter>

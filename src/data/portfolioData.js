@@ -5,7 +5,7 @@ export const portfolioData = [
     languages: ['javascript','css', 'php', 'all'],
     languagesIcons: ['fab fa-js','fab fa-css3-alt', 'fab fa-php'],
     source: 'https://github.com/nguyenj-c/HotHotHot_MVC_Dynamique',
-    info: 'HotHotHot est une application dont le rôle est d’être une interface d’information et de gestion d’un système domotique. Cette application reçoit des données en provenance de différents capteurs (ex: température, humidité, état d’un périphérique etc.). Elle affiche ces données, leur historique si nécessaire, propose des suggestions et émet des alertes à l’attention des utilisateurs.',
+    info: 'HotHotHot est une application dont le rôle est d’être une interface d’informations et de gestion d’un système domotique. Cette application reçoit des données en provenance de différents capteurs (ex: température, humidité, état d’un périphérique etc). Elle affiche leur données, leur historique si nécessaire, propose des suggestions et émet des alertes à l’attention des utilisateurs.',
     picture: './media/hothothot.JPG'
   },
   {
