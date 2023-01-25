@@ -26,15 +26,6 @@ export const portfolioData = [
     info: 'Projet auquel j\'ai pu participer durant mon alternance en tant que développeur web, différentes missions telles que le développement de nouvelles fonctionnalités, la modification et la correction de fonctionnalités présentes au sein de l\'outil Gestion sports m\'ont été confiées',
     picture: './media/gs.JPG'
   },
-  // {
-  //   id: 4,
-  //   name: 'Projet perso',
-  //   languages: ['javascript','php','react', 'all'],
-  //   languagesIcons: ['fab fa-js','fab fa-php','fab fa-react'],
-  //   source: 'http://www.github.com',
-  //   info: '',
-  //   picture: './media/project4.JPG'
-  // },
   {
     id: 5,
     name: 'CV/Portfolio',

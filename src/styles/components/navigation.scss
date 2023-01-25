@@ -106,17 +106,9 @@
             transition: 0.3s;
             cursor: pointer;
 
-            // a:visited {
-            //     color: $white;
-            // }
-
             &:nth-child(1) {
                 padding: .5rem 0.85rem;
             }
-
-            // :nth-child(4) {
-            //     padding: .5rem .75rem;
-            // }
 
             &:hover {
                 background: $white;

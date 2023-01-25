@@ -50,12 +50,6 @@ const Navigation = () => {
                     <li>
                         <a href='https://github.com/Aizkun' target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
                     </li>
-                    {/* <li>
-                        <a href='https://wwww.google.com' target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
-                    </li>
-                    <li>
-                        <a href='https://wwww.google.com' target="_blank" rel="noopener noreferrer"><i className="fab fa-codepen"></i></a>
-                    </li> */}
                 </ul>
                 <div className='signature'>
                     <p>Maxime - 2022</p>
